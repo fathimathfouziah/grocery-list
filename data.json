@@ -1,0 +1,85 @@
+[
+    {
+        "Serialno" : "1",
+        "Name" :"Basmati",
+        "Quantity" :"2",
+        "Unit":"kg",
+        "Department" :"RICE",
+        "Notes" :"Rice Total - As per our meal plans we consume lesser amount of rice"
+      
+    },
+    {
+    "Serialno" : "2",
+    "Name" :"Biryani Rice",
+    "Quantity" :"2",
+    "Unit" :"kg",
+    "Department" :"RICE",
+    "Notes" :"Enough for a month" 
+    },
+    {
+        
+        "Serialno" : "3",
+        "Name" :"Wheat flour",
+        "Quantity" :"5",
+        "Unit ":"kg",
+        "Department" :"FLOUR",
+        "Notes" :"For a monthly consumption"
+    },
+    {
+    "Serialno" : "4",
+        "Name" :"Besan flour",
+        "Quantity" :"2",
+        "Unit" :"kg",
+        "Department" :"FLOUR",
+        "Notes" :"Besan or chickpeas flour"
+    },
+    {
+    "Serialno" : "5",
+        "Name" :"Toor dal",
+        "Quantity" :"500",
+        "Unit" :"g",
+        "Department" :"DAL/Lentils",
+        "Notes" :"split region dal or arhar dal"
+    },
+    {
+    "Serialno" : "6",
+        "Name" :"chana dal",
+        "Quantity" :"500",
+        "Unit" :"g",
+        "Department" :"DAL/Lentils",
+        "Notes" :"Chana dal is also called as bengal gram "
+    },
+    {
+    "Serialno" : "7",
+        "Name" :"Coffee",
+        "Quantity" :"1",
+        "Unit" :"kg",
+        "Department" :"Cofee/Tea and sugar",
+        "Notes" :"Mostly get the speciality coffee"
+    },
+    {
+    "Serialno" : "8",
+        "Name" :"coriander seeds",
+        "Quantity" :"200",
+        "Unit" :"g",
+        "Department" :"Spices",
+        "Notes" :"Usually stock every 3 month"
+    },
+    {
+    "Serialno" : "9",
+        "Name" :"Mustard seeds",
+        "Quantity" :"200",
+        "Unit" :"g",
+        "Department" :"Spices",
+        "Notes" :"Check the size"
+    },
+    {
+    "Serialno" : "10",
+        "Name" :"Salt",
+        "Quantity" :"2",
+        "Unit" :"kg",
+        "Department" :"Spices",
+        "Notes" :"check if iodised"
+    }
+]
+
